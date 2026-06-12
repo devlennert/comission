@@ -1,0 +1,17 @@
+return {
+	name = "Soft Press",
+	event = "click",
+	prop = "Size",
+	time = 0.08,
+	style = "Quad",
+	val = UDim2.new(0.940000,0,0.940000,0),
+	from = nil,
+	to = nil,
+	reset = true,
+	resetTime = 0.14,
+	resetStyle = "Back",
+	continuous = nil,
+	pause = nil,
+	permanent = nil,
+	looping = nil,
+}

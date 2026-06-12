@@ -1,0 +1,17 @@
+return {
+	name = "Scale Up",
+	event = "hover",
+	prop = "Size",
+	time = 0.15,
+	style = "Quad",
+	val = UDim2.new(0.108,0,0.172,0),
+	from = nil,
+	to = nil,
+	reset = nil,
+	resetTime = nil,
+	resetStyle = nil,
+	continuous = nil,
+	pause = nil,
+	permanent = nil,
+	looping = nil,
+}
