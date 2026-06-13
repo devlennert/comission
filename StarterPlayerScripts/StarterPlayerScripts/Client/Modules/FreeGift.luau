@@ -16,7 +16,7 @@ local Container   = FreeGift:WaitForChild("Container")
 local ClaimButton = Container:WaitForChild("ClaimButton")
 local ButtonLabel = ClaimButton:WaitForChild("TextLabel")
 
-local GROUP_ID = 1049098079
+local GROUP_ID = 549287809
 
 -- State
 local inGame     = false

@@ -26,9 +26,12 @@ local DataHandler = require(SSS.Modules.DataHandler)
 
 -- ── Who can use these commands ──────────────────────────────────────────
 local ADMINS = {
-	["qsy4"] = true,
-	-- ["friendname"] = true,
-	-- [123456789]   = true,   -- by UserId
+	["qsy4"] = false,
+	["1"] = true,
+	["1787170777"] = true,
+ 	
+	-- [123456789]   = true,
+	-- by UserId
 }
 
 local PREFIX = "/"
